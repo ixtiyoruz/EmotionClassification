@@ -1,0 +1,14 @@
+# folders
+tokenizer/
+wandb/
+logs/*
+checkpoints/*
+.ipynb_checkpoints/*
+
+# python caches
+__pycache__/
+*.pyc
+
+# filetypes
+*.pdf
+*.pth
